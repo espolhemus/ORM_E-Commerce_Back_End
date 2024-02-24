@@ -31,8 +31,6 @@ This challenge provided us with starter code, and required that we build the bac
   - Launch the Insomnia application and direct it to localhost:3001
 
 ## Usage
-  The application is deployed at the following location:
-
   This application is not being deployed; a video walkthrough can be found at:
   - https://drive.google.com/file/d/1r4ijfTXLHivXhbjrqzhylBN_kiTbzObC/view
 
